@@ -2,7 +2,7 @@
 
 ## Sujet    
 NomProjet\
-[Lien du site du projet](https://login.github.io/projet/)  test
+[Lien du site du projet](https://login.github.io/projet/)
 ## Membres du groupe :  
  - [Nom prenom (référent)](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)
  - [Nom prenom](mailto:nom.prenom@edu.univ-fcomte.fr?subject=SAE_1_05_06)
